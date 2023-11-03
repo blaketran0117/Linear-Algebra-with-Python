@@ -1,2 +1,2 @@
 # Linear-Algebra-with-Python
-This project is created with the purpose of learning Linear Algebra concepts and at the same time building a habit of coding everyday.
+This project is created with the purpose of learning Linear Algebra concepts and at the same time building a habit of coding everyday. The code examples and exercises are from https://www.amazon.com/Practical-Linear-Algebra-Data-Science/dp/1098120612. I will be finishing 1 subsection every single day and push the code as a solutions to the exercises found in the book to this repository.
